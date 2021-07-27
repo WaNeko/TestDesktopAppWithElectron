@@ -1,2 +1,2 @@
 # TestDesktopAppWithElectron
-Una aplación de prueba con Electron
+Una aplicación de prueba con Electron
